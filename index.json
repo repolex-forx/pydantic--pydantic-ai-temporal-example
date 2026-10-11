@@ -1,0 +1,11 @@
+{
+  "org": "pydantic",
+  "repo": "pydantic-ai-temporal-example",
+  "versions": [
+    {
+      "commit": "ca6194221a3c54a9af2010da1be858ffd8553259",
+      "tag": "",
+      "parsed_at": "2026-10-11T20:37:27.479355+00:00"
+    }
+  ]
+}
